@@ -1,0 +1,87 @@
+/**
+ * aheadWorks Co.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ *
+ * @copyright  Copyright (c) 2009-2010 aheadWorks Co. (http://www.aheadworks.com)
+ * @license    http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ */
+ 
+/* IE 6 only */
+.login-page .content { _height:150px; }
+.validation-advice { _height:13px; }
+.error-msg,
+.success-msg,
+.note-msg,
+.notice-msg { _height:24px; }
+.opc li.section { vertical-align:top; }
+
+/* Doubled Margin Fixes */
+.product-view .product-img-box .more-views li,
+.sp-methods select.month { display:inline; }
+
+/********** < Navigation styles */
+#nav li,
+#nav li a { zoom:1; }
+#nav li { vertical-align:top; }
+/* Show Menu */
+#nav li.over ul.shown-sub { left:0; }
+#nav li.over li ul.shown-sub { left:100px; }
+/********** < Navigation styles */
+
+input.radio { width:13px; height:13px; }
+input.checkbox { width:13px; height:13px; }
+
+/* Clearer */
+.clearer { display:block; clear:both; font-size:0; line-height:0; height:0; overflow:hidden; }
+
+/* Clears and hasLayout fixes */
+.header,
+#nav,
+.main,
+.footer,
+.col-main,
+.col2-set,
+.col3-set,
+.col4-set,
+.messages li,
+.search-autocomplete li,
+.block-poll li,
+.block-related li,
+.block-related .item,
+.block-reorder li,
+.block .actions,
+.mini-products-list li,
+.title-buttons,
+.pager,
+.sorter,
+.ratings,
+.products-list .item,
+.add-to-box,
+.add-to-cart,
+.product-essential,
+.product-view .product-img-box .more-views ul,
+.product-options .options-list li,
+.product-options-bottom,
+.truncated,
+.truncated .truncated_full_value,
+.product-review,
+.cart,
+.opc .step-title,
+.opc .step,
+.sp-methods,
+.checkout-progress,
+.field-100,
+.form-list li,
+.group-select li,
+.buttons-set,
+.buttons-set2,
+.page-print .print-head { zoom:1; }
+
+/* Hover Fix */
+iframe.hover-fix { position:absolute; left:-1px; top:-1px; z-index:-1; background:transparent; filter:progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0); }

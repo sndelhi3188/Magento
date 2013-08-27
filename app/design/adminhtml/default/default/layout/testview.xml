@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+  <testview_adminhtml_testviewbackend_index>
+	<reference name="content">
+	  <block type="testview/adminhtml_testviewbackend" name="testviewbackend" template="testview/testviewbackend.phtml"/>
+	</reference>
+  </testview_adminhtml_testviewbackend_index>
+  <testview_adminhtml_testview_index>
+	<reference name="content">
+	  <block type="testview/adminhtml_testview" name="testview" />
+	</reference>
+  </testview_adminhtml_testview_index>
+</layout>

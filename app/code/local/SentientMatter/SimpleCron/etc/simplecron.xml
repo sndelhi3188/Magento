@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<something
+<layout>
+	<base>
+        <block name="SentientMatter_SimpleCron_Block_InlineJs" template="simplecron/inline-js.phtml"></block>
+    
+    </base>
+</layout>

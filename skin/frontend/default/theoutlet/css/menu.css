@@ -1,0 +1,57 @@
+/**
+ * aheadWorks Co.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ *
+ * @copyright  Copyright (c) 2009-2010 aheadWorks Co. (http://www.aheadworks.com)
+ * @license    http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ */
+
+#nav { position: absolute; top: 53px; left:0; z-index: 9999; padding:0; font-size:1.1em; background: url(../images/d9-nav-shop-dropbg.png) no-repeat left bottom; padding-bottom: 20px; }
+
+/************** ALL LEVELS  *************/ /* Style consistent throughout all nav levels */
+#nav li { position:relative; text-align:left; }
+#nav li.over { z-index:999; }
+#nav a {margin-bottom: 1px;  display:block; text-align: center; text-decoration:none; color: #fff; background: none; }
+#nav a:hover { display:block; text-decoration:none; color: #444; background-position: 0 -29px; }
+#nav span { display:block; cursor:pointer; white-space:nowrap; }
+#nav li ul span {white-space:normal; }
+#nav ul li.parent a {  }
+#nav ul li.parent li a { }
+
+/************ 0 LEVEL  ***************/
+#nav li { }
+#nav a { border: 0; width: 80px; font-size: 12px; font-weight: normal; float:left; padding: 0 25px; height: 29px; line-height: 29px; font-weight:bold; text-align: left; }
+#nav a:hover { background-position: 0 -29px; }
+
+/************ 1ST LEVEL ************/
+#nav ul li,
+#nav ul li.active { float:none; margin:0; }
+/*#nav ul li.over { background:#d5e4eb url(../images/nav_divider.gif) repeat-x 0 100%; }*/
+#nav ul li.last { padding-bottom:0; }
+
+#nav ul a { display: block; position: relative; z-index: 900; }
+#nav ul li.active a { }
+#nav ul li a:hover { }
+
+/************ 2ND LEVEL ************/
+#nav ul { position:absolute; top: 0px; left:-10000px; padding: 0; margin: 0; background: url(../images/d9-nav-shop-dropbg.png) no-repeat left bottom; padding-bottom: 20px; }
+
+/* Show menu */
+#nav li.over > ul { left:130px; }
+#nav li.over > ul li.over > ul { left:130px; }
+#nav li.over ul ul { left:-10000px; }
+
+#nav ul li a { display: block; width: 100px; border: 0; }
+#nav ul li a:hover { border: 0; }
+#nav ul li a,
+#nav ul li a:hover { }
+#nav ul span, #nav ul li.last li span { }
+
+/************ 3RD+ LEVEL ************/
+#nav ul ul { }

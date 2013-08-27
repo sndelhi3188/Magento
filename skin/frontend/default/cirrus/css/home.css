@@ -1,0 +1,64 @@
+/* Home page */
+
+.slide {
+	clear: both;
+	overflow: auto;
+	padding: 10px;
+	width: 898px;
+	border: 1px solid #E1E1E1;
+	background: #F6F6F6;
+}
+
+.product-image {
+	float: left;
+	width: 650px;
+	padding: 10px;
+	border: 1px solid #E1E1E1;
+	background: #FAFAFA;
+	
+}
+
+.product-details {
+	float: left;
+	width: 190px;
+	margin: 0 0 0 20px;
+}
+
+.product-details .price {
+	margin: -15px 0 0 0;
+	color : #7db000;
+}
+
+.product-details p{
+	margin: 10px 0 0 0;
+}
+
+#nav {
+	position: absolute;
+	top: 255px;
+	right: 250px;
+	z-index: 2000;
+}
+
+#nav a { 
+	margin-right: 10px; 
+	height: 5px;
+	width: 5px; 
+	z-index: 1000;
+	float: left;
+	text-indent: -9999px;
+	cursor: pointer;
+	border: 1px solid #fff;
+	background:  #eee;
+}
+
+#nav a:hover { 
+	border: 1px solid #fff;
+	background:  #999;
+}
+
+#nav a.activeSlide { 
+	border: 1px solid #444;
+	background:  #333;
+}
+

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Bestylish_Testview>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.0</version>
+    </Bestylish_Testview>
+  </modules>
+</config>

@@ -1,0 +1,92 @@
+#tabs{margin-left:1px;}
+#tabs ul{display:block;background: url(../images/bg_ul_tab.gif) repeat-x scroll 0 100% #FFFFFF;}
+/*
+
+#tabs ul li{float:left;display:block;margin: 0 0px;color: #00AEEF;font-size: 14px;height: 31px;margin: 0 0 0 -1px;
+    line-height: 30px; padding:0px 12px 0px 0px;background:url(../images/tab_2.gif) no-repeat scroll right bottom;}
+#tabs ul li span{ font:normal 14px/31px Arial, Helvetica, sans-serif; height:31px; padding:0px 6px 0px 12px; display:block;
+background: url(../images/bg_ori.gif) no-repeat left bottom; float:left; }
+	
+#tabs ul li.tab_ori{}
+#tabs ul li.tab_active, #tabs ul li.tab_hover{background: url(../images/tab_active_2.gif) no-repeat right bottom;color: #707070;}
+#tabs ul li.tab_active span, #tabs ul li.tab_hover span{  color: #707070; background: url(../images/bg_act.gif) no-repeat left bottom; }
+
+#tabs ul li.tab_active a{color:white;text-decoration:none;}
+#tabs ul li.tab_hover a{color:#fff;text-decoration:none;}
+*/
+#tabs ul{
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 0px;
+}
+#tabs ul:after { /* clearing without presentational markup, IE gets extra treatment */
+    display: block;
+    clear: both;
+    content: " ";
+}
+#tabs ul li {
+    float: left;
+    margin:0 0 0 -1px;
+    min-width: 80px; /* be nice to Opera */
+	padding-bottom:0px;
+	line-height:normal;
+}
+
+
+#tabs ul li span{ background:url(../images/tab_1.gif) no-repeat scroll 0% 100%;  font:normal 14px/31px Arial, Helvetica, sans-serif; height:31px; color:#00aeef; padding:0px 0px 0px 12px; text-transform:none; float:left; display:block; position:relative; z-index:0; margin-top:5px; }
+#tabs ul li span span{margin: 0; background:url(../images/tab_2.gif) no-repeat scroll 100% 100%; font:normal 14px/31px Arial, Helvetica, sans-serif; height:31px; padding:0px 12px 0px 0px; display:block; float:left; }
+
+#tabs ul li:hover span{background:url(../images/tab_active_1.gif) no-repeat scroll 0% 100%;   font:normal 14px/36px Arial, Helvetica, sans-serif; height:36px; color:#707070; padding:0px 0px 0px 12px; text-transform:none; float:left; display:block; text-decoration:none; margin-top:0px; cursor: pointer; }
+#tabs ul li:hover span span{ background:url(../images/tab_active_2.gif) no-repeat scroll 100% 100%; font:normal 14px/31px Arial, Helvetica, sans-serif; height:31px; padding:5px 12px 0px 0px; display:block; float:left;}
+
+#tabs ul li.tab_active{ background:url(../images/tab_span_active.gif) no-repeat scroll 50% 100%;}
+#tabs ul li.tab_active span{ background:url(../images/tab_active_1.gif) no-repeat scroll 0% 100%;  font:normal 14px/36px Arial, Helvetica, sans-serif; height:36px; color:#707070; padding:0px 0px 0px 12px; text-transform:none; float:left; display:block; position:relative; z-index:0; margin-top:0px; font-size:14px;}
+#tabs ul li.tab_active span span{ background:url(../images/tab_active_2.gif) no-repeat scroll 100% 100%; font:normal 14px/31px Arial, Helvetica, sans-serif; height:31px; padding:5px 12px 0px 0px; display:block; float:left; }
+
+#tabs ul li.tabs-selected a.best-product{ margin-left:-1px; position:relative; z-index:10;}
+#tabs ul li a.best-product{ margin-left:-1px; position:relative; z-index:10;}
+#tabs ul li.tabs-selected a.new-product{position: relative; z-index:12;}
+#tabs ul li.tabs-selected a.new-product span{ margin-right:-1px; position: relative; z-index:12;}
+#tabs ul li a.top-view{margin-left:-1px; position: relative; z-index:12;}
+
+
+
+#content{clear:both;margin-top:15px;}
+.note-msg{display:block;margin-top:10px;}
+	
+/* Override of styles.css (line 777), avoid width
+*******************************************************************/
+.col2-left-layout .products-grid, .col2-right-layout .products-grid{ margin: 0 auto; width: auto;}
+#content .category-products{border:1px solid #ddd;padding-bottom:24px;}
+#content .products-grid{border:none;padding: 25px 24px 0;}
+#content .products-grid li.item {border:1px solid #ddd;float: left;margin-right:20px;
+    padding: 10px 15px;
+    width: 180px;}
+#content .products-grid li.last{margin-right:0;}	
+#content .products-grid .actions {
+    bottom: 0;
+    position: inherit;
+}	
+.products-grid .product-image {
+    display: block;
+    height: auto;
+    margin: 0 0 10px;
+    text-align: center;
+    width: 100%;
+}
+
+/* LOADING INDICATOR
+*******************************************************************/
+#loading-mask {/*position: relative;left: 50%;float:left;*/
+	color:#d85909;font-size:1.1em;font-weight:bold;text-align:center;z-index:500;width:300px;
+	margin:0 auto;padding-top: 35px;position:absolute;
+    }
+#loading-mask .loader {
+	width:120px;padding:15px 60px;background:#fff4e9;border:2px solid #f1af73;
+    color:#d85909;font-weight:bold;text-align:center;z-index:10000;margin:0 auto;
+}
+#loading{ 
+	background: url("../images/loading.gif") no-repeat; width: 220px;height:19px;float:left;display:none;
+	margin:0 auto;position:relative;left:150px;
+}
+    

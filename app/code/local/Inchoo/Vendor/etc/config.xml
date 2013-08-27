@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<Inchoo_Vendor>
+			<version>0.1.0</version>
+		</Inchoo_Vendor>
+	</modules>
+	<global>
+		<models>
+			<alanstormdotcom_developermanual>
+				<class>Inchoo_Vendor_Model</class>
+			</alanstormdotcom_developermanual>
+		</models>
+		<helpers>
+			<alanstormdotcom_developermanual>
+				<class>Inchoo_Vendor_Helper</class>
+			</alanstormdotcom_developermanual>
+		</helpers>
+	</global>
+</config>

@@ -1,0 +1,53 @@
+/**
+ * aheadWorks Co.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ *
+ * @copyright  Copyright (c) 2009-2010 aheadWorks Co. (http://www.aheadworks.com)
+ * @license    http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ */
+
+/************************************************/
+/******************** Clears ********************/
+/************************************************/
+.clearer:after,
+#nav:after,
+.main:after,
+.footer:after,
+.col-main:after,
+.col2-set:after,
+.col3-set:after,
+.col4-set:after,
+.search-autocomplete li:after,
+.block-poll li:after,
+.block-related li:after,
+.block-related .item:after,
+.block .actions:after,
+.mini-products-list li:after,
+.title-buttons:after,
+.pager:after,
+.sorter:after,
+.ratings:after,
+.add-to-box:after,
+.add-to-cart:after,
+.product-essential:after,
+.products-list li.item:after,
+.product-view .product-img-box .more-views ul:after,
+.product-options .options-list li:after,
+.product-options-bottom:after,
+.product-review:after,
+.cart:after,
+.opc .step-title:after,
+.checkout-progress:after,
+.field-100:after,
+.group-select li:after,
+.form-list li:after,
+.buttons-set:after,
+.buttons-set2:after,
+.page-print .print-head:after,
+div#level1:after { display:block; content:"."; clear:both; font-size:0; line-height:0; height:0; overflow:hidden; }

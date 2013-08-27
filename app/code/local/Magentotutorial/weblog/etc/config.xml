@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Magentotutorial_Weblog>
+            <version>0.0.1</version>
+        </Magentotutorial_Weblog>
+    </modules>
+	<frontend>
+		<routers>
+			<weblog>
+				<use>standard</use>
+				<args>
+					<module>Magentotutorial_Weblog</module>
+					<frontName>weblog</frontName>
+				</args>
+			</weblog>
+		</routers>
+	</frontend> 
+</config>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package>
+    <name>StarPlugins_CloudZoom</name>
+    <version>1.0.3</version>
+    <stability>stable</stability>
+    <license uri="http://www.starplugins.com/license">Commercial</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>A Magento module for the official Cloud Zoom image zoom plugin developed by Star Plugins.</summary>
+    <description>A Magento module for the official Cloud Zoom image zoom plugin developed by Star Plugins.&#xD;
+&#xD;
+Implements all Cloud Zoom features.&#xD;
+&#xD;
+Works with your primary product images and associated gallery images.&#xD;
+&#xD;
+Excellent touch support on tablets/mobiles plus pinch-zoom on iPad/iPhone.&#xD;
+</description>
+    <notes>1.0.0&#xD;
+Initial release.&#xD;
+&#xD;
+1.0.1&#xD;
+Incorporates support for Fancy Box.&#xD;
+See www.starplugins.com/cloudzoom/magento.&#xD;
+&#xD;
+Fixes jQuery conflict with Prototype.js&#xD;
+&#xD;
+1.0.2&#xD;
+Ensures Cloud Zoom's own version of jQuery is preserved and used.&#xD;
+&#xD;
+1.0.3&#xD;
+Fixed bug relating to triggering Fancy Box and different versions of jQuery.</notes>
+    <authors><author><name>starplugins.com</name><user>StarPlugins</user><email>info@starplugins.com</email></author></authors>
+    <date>2013-06-27</date>
+    <time>12:48:14</time>
+    <contents><target name="magecommunity"><dir name="StarPlugins"><dir name="CloudZoom"><dir name="Block"><dir name="Product"><dir name="View"><file name="Media.php" hash="3d66c8afd83bb0c382c629bea2ba37eb"/></dir></dir></dir><dir name="Helper"><file name="Data.php" hash="e2b2ef3c63e2b98382f0a5ff7803e504"/></dir><dir name="Model"><dir name="System"><dir name="Config"><dir name="Source"><file name="Position.php" hash="3a649bcfc701b9806847a5f635724ac7"/></dir></dir></dir></dir><dir name="etc"><file name="config.xml" hash="e72009ac5f381c7a8e57d3dd11c9190c"/><file name="system.xml" hash="7e243a740b89e10b974bde5e90a81f3b"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="starplugins-cloudzoom.xml" hash="f3e8fb2169ae17e72f35d704637ae0f4"/></dir><dir name="template"><dir name="starplugins"><dir name="cloudzoom"><dir name="catalog"><dir name="product"><dir name="view"><file name="media.phtml" hash="11aee202b31d42f14368fdce5204596a"/></dir></dir></dir></dir></dir></dir></dir></dir></dir></target><target name="mage"><dir name="app"><dir name="etc"><dir name="modules"><file name="StarPlugins_CloudZoom.xml" hash="c2617febe133cfad46543ca393208b8b"/></dir></dir></dir><dir name="js"><dir name="jquery"><file name="jquery-1.8.3.min.js" hash="2065cab7167a9588851608f567a2ece5"/></dir><dir name="starplugins"><file name="cloudzoom.js" hash="b8d8b4f0b01edcf4f47aa8ad8d4d8518"/></dir></dir></target><target name="mageskin"><dir name="frontend"><dir name="base"><dir name="default"><dir name="css"><dir name="starplugins"><file name="ajax-loader.gif" hash="be1cede97289c13920048f238fd37b85"/><file name="blank.png" hash="2aa8343520ef733e97d3d1ba57c93ba9"/><file name="cloudzoom.css" hash="f831aae370ac1ff7085716360b8e483b"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php><package><name></name><channel>connect.magentocommerce.com/core</channel><min></min><max></max></package></required></dependencies>
+</package>

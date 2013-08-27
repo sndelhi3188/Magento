@@ -1,0 +1,75 @@
+/**
+ * aheadWorks Co.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ *
+ * @copyright  Copyright (c) 2009-2010 aheadWorks Co. (http://www.aheadworks.com)
+ * @license    http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ */
+.form-list li,
+.narrowed-category li,
+.page-head,
+.page-head-alt,
+.page-popup .print-head,
+.col2-set,
+.col2-alt-set,
+.col3-set,
+.col4-set,
+.header,
+.head,
+.head-alt,
+.head-alt2,
+.head-alt3,
+#nav,
+.box,
+.middle,
+.button-set,
+.one-page-checkout,
+.one-page-checkout li.section,
+.one-page-checkout .default-box,
+.actions,
+.legend,
+.ratings,
+.page-head,
+.page-head-alt,
+.search-bar,
+.sidebar li.item,
+.sidebar .content,
+.group-select li,
+.search-autocomplete li,
+.tabs,
+.cross-sell-block,
+.my-review-detail,
+.search-autocomplete li,
+.generic-product-list li,
+.account-nav li,
+.listing-type-list .listing-item,
+#nav li,
+.product-img-box .more-views ul,
+.product-options dt,
+.product-options dd ul.options-list li,
+.product-options dd ul.options-list .label,
+.product-options-bottom,
+.truncated_full_value,
+.error-msg, .success-msg, .notice-msg, .note-msg,
+.cart-tax-total { zoom:1; }
+
+input.radio,
+input.checkbox { width:13px; height:13px; }
+.product-options ul.options-list input.radio { margin-top:4px; }
+
+.footer .footer-callout { position:relative; zoom:1; }
+.login-box .content     { height:180px; }
+.col-left, .col-right, .col-main { display:inline; }
+.one-page-checkout li.section { vertical-align:top; }
+
+/* Doubled Margin Fix */
+.mini-newsletter .input-box { display:inline; }
+
+/* Clearer */
+.clear { display:block; clear:both; font-size:0; line-height:0; height:0; overflow:hidden; }

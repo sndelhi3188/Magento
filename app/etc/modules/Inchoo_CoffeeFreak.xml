@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+    <modules>
+        <Inchoo_CoffeeFreak>
+            <active>false</active>
+            <codePool>community</codePool>
+        </Inchoo_CoffeeFreak>
+    </modules>
+</config>

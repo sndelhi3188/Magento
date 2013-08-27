@@ -1,0 +1,136 @@
+/**
+ * aheadWorks Co.
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ *
+ * @copyright  Copyright (c) 2009-2010 aheadWorks Co. (http://www.aheadworks.com)
+ * @license    http://ecommerce.aheadworks.com/LICENSE-M1.txt
+ */
+/******************************************/
+/***********[ Mage_CSS_A Reset ]***********/
+/******************************************/
+
+* { margin:0; padding:0; }
+
+
+html,body { height:100%; }
+
+body { background:#a1b0b7 url(../images/d9-background.png) repeat-x 0 0; /*background:#496778 url(../images/body_bg.gif) 50% 0 repeat-y;*/ color:#2f2f2f; font:12px/1.5 Arial, Helvetica, sans-serif; text-align:center; min-height:100%; }
+
+img { border:0; }
+
+a { color:#1e7ec8; text-decoration:underline; }
+a:hover { color:#1e7ec8; text-decoration:underline; }
+:focus { outline:0; }
+
+/* Heading */
+h1, h2, h3, h4, h5, h6, .head {   line-height:1.3em; color:#0A263C; }
+h1 { font-size:2em; line-height:1.17; }
+h2 { font-size:1.5em; }
+h3 { font-size:1.35em; }
+h4 { font-size:1.05em; }
+h5 { font-size:1.05em; }
+h6 { font-size:.95em; }
+
+/* Table */
+th { padding:0; text-align:left; vertical-align:top; }
+td  {padding:0; vertical-align:top;}
+
+/* Paragraph */
+p {}
+address { font-style:normal; margin-bottom:.5em; }
+cite { font-style:normal; font-size:10px; }
+q:before,
+q:after{ content:''; }
+
+/* Form */
+form { display:inline; }
+fieldset { border:none; }
+legend { display:none; }
+label { color:#666; font-weight:bold; }
+input, textarea, select, button { vertical-align:middle; }
+
+/* Lists */
+dt { display:block; font-weight:bold; }
+ul,ol { list-style:none; }
+
+/* Size */
+small { font-size:.92em; }
+big { font-size:1.1em; }
+
+hr { height:0; margin:8px 0; overflow:hidden; visibility:hidden; }
+.nowrap { white-space:nowrap; }
+.bold { font-weight:bold; }
+
+/* Clears */
+.clear { clear: both; }
+
+/* Home Tabs Pro */
+.aw-htp, .aw-htp-padder { width:auto !important; }
+#hometabspro.listing-type-list .listing-item { width:100% !important; }
+#hometabspro.listing-type-list .product-shop { width:500px !important; padding-left:10px; }
+
+/* Wierd Buttons */
+#hometabspro.catalog-listing .form-button, .form-button-alt { border:0px !important; background-color: transparent !important; }
+
+/* Blog */
+.aw-b-header {
+    width: 206px;
+    height: 49px;
+    overflow: hidden;
+    position: relative;
+    left: -6px;
+}
+.aw-b-htitle {
+    position:absolute;
+    margin-left: 20px;
+    margin-top: -38px;
+    font-size: 1.3em;
+}
+
+/* VT */
+.aw-vidtest-player,
+.aw-vidtest-details {
+    width: 533px !important; 
+}
+.aw-vidtest-description {
+    width: 357px !important;
+}
+.aw-vidtest-scroll-frame {
+    width: 450px !important;
+}
+.aw-vidtest-collateral-box {
+    padding-right: 10px;
+}
+.aw-vidtest-player {
+    height: auto !important;
+    min-height: 400px;
+}
+.add-own-video-button {
+    top: auto !important;
+    right: auto !important;
+    margin-left:450px;
+    margin-top:-25px;
+}
+
+/* aheadWorks link */
+.aw-store-link {
+    text-align: right;
+}
+.aw-store-link a {
+    color: #58595A;
+    text-decoration: none;
+}
+.aw-store-link a:hover {
+    color: #444;
+}
+
+/* APC */
+.ac-grid .price-box {
+    float: none !important;
+}

@@ -1,0 +1,213 @@
+
+/*-------------------------STart Stop Slider------------------------*/
+.aslideshow, .aslideshow-label, .aslideshow-content, .aslideshow-panel {
+    font:12px Verdana, Tahoma, sans-serif;
+}
+
+.aslideshow {padding:0;border:0;position:relative;display:none;/* Set to "none" for not preview slideshow content */z-index:1}
+.aslideshow-content {    padding:0;    color:#333;    overflow:hidden;    position:relative;    z-index:1;}
+
+    /* Some Content Changes */
+.aslideshow-content p {        padding:0 !important;        overflow:auto;    }
+.aslideshow-content img {        padding:0 !important;        border:0 !important;    }.aslideshow-slide {display:none;position:absolute;    }
+.aslideshow-fullscreen {    position:absolute;    top:0;    left:0;    padding:0;    border:0;      overflow:hidden;}
+.aslideshow-label-place, .aslideshow-panel-place {
+    /* Stupid IE hack */
+// border-style:dotted; border-width: 1px 0; border-color: transparent; background:transparent;}
+.aslideshow-label-place {    padding:0;    position:absolute;    top:4px;    right:6px;    z-index:100;    height:30px;	width:60% !important;}
+.aslideshow-label {z-index:101;color:#fff;width:100%;height:100%;line-height:30px;text-indent:8px;font-weight:bold;
+				border:#888 solid 1px;
+				border-radius: 6px;
+				-moz-border-radius: 6px;
+				-khtml-border-radius: 6px;
+				-webkit-border-radius: 6px;    }
+
+.aslideshow-label a,
+.aslideshow-label a:hover,
+.aslideshow-label a:active,
+.aslideshow-label a:visited {
+    color:#fff;
+}
+
+.aslideshow-panel-place {
+    padding:0;
+    position:absolute;
+    bottom:4px;
+    left:6px;
+	width:60% !important;
+    z-index:100;
+    height:34px;
+}
+.aslideshow-panel {
+    z-index:101;    
+    width:100%;
+    height:100%;
+	    padding:0 2px;
+	border:#888 solid 1px;
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px
+}
+
+.aslideshow-panel a.button {
+    display: block;
+    width:30px;
+    height:32px;
+    float:left;
+    text-indent:-99999%;
+    overflow:hidden;
+    outline: 0; /* @ Firefox, prevent dotted border after click */ 
+    background-image:url(../images/startstop-slider/buttons.png);
+    background-repeat:no-repeat;
+    border:1px solid transparent
+}
+        
+.aslideshow-panel a.button:hover {background-color:#333;} 
+.aslideshow-panel a.first {background-position: 0 0;}
+.aslideshow-panel a.prev {background-position: -30px 0;}
+.aslideshow-panel a.play {background-position: -60px 0;}
+.aslideshow-panel a.stop {background-position: -90px 0   ;}
+.aslideshow-panel a.next {background-position: -120px 0;}
+.aslideshow-panel a.last {background-position: -150px 0;}
+.aslideshow-panel a.help {position:relative;background-position: -180px 0;}
+.aslideshow-panel span.counter {float:right;display: block;font-weight:700;color:#fff;height:32px;line-height:32px;padding:0 8px;/*width:26px;*/}
+
+
+.aslideshow-help {
+    position:absolute;
+    bottom:32px;
+    z-index:101;   
+    background-color:#ff9; 
+    display:none;
+	padding:2px;
+	margin:0 2px;
+    opacity: 0.8;
+    width:98%;
+}
+
+.aslideshow-frame div {
+    position:absolute;
+    top:0px;
+    left:0px;
+    background:url(../images/startstop-slider/play.png) 50% 50% no-repeat;
+    z-index:201;
+    cursor:pointer;
+    width:100%;
+    height:100%;
+}
+
+.aslideshow-load {
+    display:none;
+}
+    .aslideshow-load div {
+        position:absolute;
+        top:0px;
+        left:0px;
+        background:url(../images/startstop-slider/ajax-loader.gif) 50% 50% no-repeat;
+        z-index:201;
+        cursor:pointer;
+        width:100%;
+        height:100%;
+    }
+
+.aslideshow-shadow {
+    position:absolute;
+    top:0px;
+    left:0px;
+    z-index:200;
+    width:100%;
+    height:100%;
+}
+    
+.aslideshow-opacity {
+    background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA9JREFUeNpiYmBgaAAIMAAAjwCD5Hc2/AAAAABJRU5ErkJggg==);
+    background:rgba(0, 0, 0, 0.5);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#85000000, endColorstr=#85000000);
+}
+/*-------------------------CoinSlider Slider------------------------*/
+
+#page { width: 575px; margin: 30px auto; }
+#gamesHolder { background: url(design/shadow.png) no-repeat center 295px; padding: 5px; margin-top: 30px; width: 565px; }
+
+
+
+.holder {background: url(design/shadow.png) no-repeat center bottom; padding: 17px 5px;  }
+.text { background-color: #f3f3f3; padding: 30px; margin-top: 10px; line-height: 20px; overflow: hidden; zoom: 1; }
+
+.holder h2 { font-family: Georgia; margin: 0; padding: 0px 0px 15px 0px; }
+
+code { display: block; background-color: #fff; padding: 10px; overflow: auto; }
+pre { margin: 10px 0px; padding: 0; }
+
+.download { width: 207px; height: 77px; background: url(design/download.png) no-repeat; float: right; }
+
+.coin-slider { overflow: hidden; zoom: 1; position: relative; }
+.coin-slider a{ text-decoration: none; outline: none; border: none; }
+
+.cs-buttons { font-size: 0px; padding:10px 10px 5px; float: left; }
+.cs-buttons a { margin-left: 5px; height: 12px; width: 12px; float: left; border: 1px solid #B8C4CF; color: #B8C4CF; text-indent: -1000px; }
+.cs-buttons a.cs-active { background-color: #3A3B40; color: #FFFFFF;border: 1px solid #3A3B40; }
+
+.cs-title { width: 545px; padding: 10px; background-color: #000000; color: #FFFFFF; }
+
+.cs-prev, .cs-next { background-color: #000000; color: #FFFFFF; padding: 0px 10px; }
+
+
+/*-------------------------------------------------ANYTHING SLIDER--------------------------------------------------*/
+
+/*
+    anythingSlider v1.2
+    
+    By Chris Coyier: http://css-tricks.com
+    with major improvements by Doug Neiner: http://pixelgraphics.us/
+    based on work by Remy Sharp: http://jqueryfordesigners.com/
+*/
+*{ margin: 0; padding: 0; }
+.wrapper-slider  a img{ border: 0; text-decoration: none; outline: 0; }
+
+.anythingSlider                         {  position: relative;}
+.anythingSlider .wrapper-slider                { /**/width: 100%;height:100%; overflow: auto;  position: absolute; top: 0; left: 0;
+										border-top: 3px solid #e0a213;border-bottom: 3px solid #e0a213;}
+
+                                        /* Width below is max for Opera */
+.anythingSlider .wrapper-slider ul             { width: 32700px; list-style: none; position: absolute; top: 0; left: 0;background: #eee;
+										 margin: 0;padding:0;overflow:hidden; }
+                                           
+.anythingSlider ul li                   { display: block; float: left; padding: 0;/* height: 317px !important; width: 680px;*/ margin: 0; }
+.anythingSlider .arrow                  { display: block; height: 77px; width: 30px;
+							 /* background: url(../images/anythingslider/arrows.gif) no-repeat 0 0;*/ text-indent: -9999px;
+							  position: absolute;  cursor: pointer; }
+                                          
+.anythingSlider .forward               { background: url(../images/anythingslider/btn_next.gif) no-repeat 0 0; right: -30px;top: 35%; }
+.anythingSlider .back                     { background: url(../images/anythingslider/btn_prev.gif) no-repeat 0 0; left: -29px;top:35%;}
+.anythingSlider .forward:hover   { /*background-position: 0 -200px; */}
+.anythingSlider .back:hover         {/* background-position: -67px -200px; */}
+
+#thumbNav                                { position: absolute; text-align: center; /*top:323px;*/bottom:-28px;}
+#thumbNav a                             { color: #ff920a; display: inline-block; padding: 2px 8px; height: 18px; margin: 0 5px 0 0;
+                                          background: #9a9a9a; text-align: center;font-weight:bold;text-decoration:none;}
+                                          
+#thumbNav a:hover                 { background-image: none; }
+#thumbNav a.cur                     { background: #9a9a9a; color:#fff;font-weight:bold;}
+
+#start-stop                             { background:#9a9a9a ; color: #fff; padding: 2px 5px; width: 40px;font-weight:bold;
+                           text-align: center; position: absolute; right: 110px;/* top: 323px;*/bottom:-27px;text-decoration:none;}
+                                          
+#start-stop.playing                     { background-color: #9a9a9a; color: #fff;font-weight:bold;text-decoration:none;}
+#start-stop:hover                       { text-decoration:none;}
+
+/*
+  Prevents
+*/
+.anythingSlider .wrapper-slider ul ul          { position: static; margin: 0; background: none; overflow: visible; width: auto; border: 0; }
+.anythingSlider .wrapper-slider ul ul li       { float: none; height: auto; width: auto; background: none; }
+
+
+
+
+
+
+/*-------------------------------------------PANEL SLIDER---------------------------------------------------------------*/
+div.cont {	position:relative;	border:2px solid #999;	cursor:pointer;}
+img {	border:none;	text-decoration:none;}
