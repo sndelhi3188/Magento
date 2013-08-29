@@ -1,0 +1,9 @@
+a#ignore Mac files
+.DS_Store
+
+#ignore intellij project folder
+.idea
+
+/var
+/downloader
+

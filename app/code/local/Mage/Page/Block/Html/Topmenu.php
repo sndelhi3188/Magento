@@ -109,28 +109,73 @@ class Mage_Page_Block_Html_Topmenu extends Mage_Core_Block_Template
                 $outermostClassCode = ' class="' . $outermostClass . '" ';
                 $child->setClass($outermostClass);
             }
-		
-            $html .= '<li ' . $this->_getRenderedMenuItemAttributes($child) . '>'; 
-            //$html .= '<li>';  // Edited for menu Nav
-            $html .= '<a href="' . $child->getUrl() . '" ' . $outermostClassCode . '><span>' 
-            //$html .= '<a href="' . $child->getUrl() . '" ' . '><span>'// Edited for menu Nav
-                . $this->escapeHtml($child->getName()) . '</span></a>';
 
+			//$html .= $this->_getRenderedMenuItemAttributes($child);
+            $html .= '<li' . $this->_getRenderedMenuItemAttributes($child) . '>'; // Edited for menu Nav
+            //$html .= '<li>';
+            //$html .= '<a href="' . $child->getUrl() . '" ' . $outermostClassCode . '><span>' // Edited for menu Nav
+            $html .= '<a href="' . $child->getUrl() . '" ' .' class="arrow"><span>'
+                . $this->escapeHtml($child->getName()) . '</span></a>';
+                
             if ($child->hasChildren()) {
                 if (!empty($childrenWrapClass)) {
                     $html .= '<div class="' . $childrenWrapClass . '">';
                 }
-                $html .= '<ul class="level">';
-                $html .= $this->_getHtml($child, $childrenWrapClass);
-                $html .= '</ul>';
+                //$html .= '<ul class="level' . $childLevel . '">'; //edited for menu NAV
+                $html .= '<div class="drop decor3_2" style="width: 640px;">
+							<div class="left">
+								<b>By Product</b>
+								<div>
+									<a href="#">Html 5 menu</a><br>
+									<a href="#">Web menu CSS</a><br>
+									<a href="#">Css menus</a><br>
+									<a href="#">Nav element</a><br>
+									<a href="#">SEO menu</a>
+								</div>
+							</div>
+							<div class="left">
+								<b>Menu Templates</b>
+								<div>
+									<a href="#">Menu template</a><br>
+									<a href="#">Menu skin</a><br>
+									<a href="#">Web menu styles</a><br>
+									<a href="#">Best css menus</a>
+								</div>
+							</div>
+							<div class="left">
+								<b>SEO Friendly</b>
+								<div>
+									<a href="#">Search engine friendly</a><br>
+									<a href="#">Best css menu</a><br>
+									<a href="#">Most popular menus</a><br>
+									<a href="#">Best web menu designs</a><br>
+									<a href="#">E-Commerce sites</a><br>
+									<a href="#">CSS Templates</a><br>
+									<a href="#">Menu Design Templates</a><br>
+									<a href="#">Clean layout &amp; alignment</a><br>
+									<a href="#">Favorite menus</a>
+								</div>
+							</div>
+							<div class="left" style="text-align:right; width:200px;">
+								<img src="../img/demo/hd6.png" style="width:128px; height:128px;"><br>
+								Search Engine friendly (SEO)
+							</div>
+							<div style="clear: both;"></div>
+						</div>';
+                //$html .= $this->_getHtml($child, $childrenWrapClass); // changes in respect to new menu NAV
+                //print_r($this->_getHtml($child, $childrenWrapClass));
+                //$html .= '</ul>';
 
                 if (!empty($childrenWrapClass)) {
                     $html .= '</div>';
                 }
             }
-            //$html .= $this->_getRenderedMenuItemAttributes($child);
             $html .= '</li>';
-
+            // if to chk if base category add a seperator class
+            if(strpos($this->_getRenderedMenuItemAttributes($child),'level-top')){
+				$html .= '<li class="separator"></li>';
+			}
+			
             $counter++;
         }
 
