@@ -32,30 +32,8 @@
 <action method="addCss"><stylesheet>magicslideshow/magicslideshow.css</stylesheet></action>-->
 <layout version="0.1.0"></layout>
 	<default>
-		<reference name="content">
-			<action method="addItem">
-				<type>skin_js</type>
-				<name>js/my_js.js</name>
-				<params/>
-			</action>
-			<action method="addItem">
-				<type>skin_js</type>
-				<name>js/my_js.js</name>
-				<params/>
-			</action>
-			<action method="addItem">
-				<type>skin_js</type>
-				<name>js/my_js.js</name>
-				<params/>
-			</action>
-			<action method="addItem">
-				<type>skin_css</type>
-				<name>css/my_styles.css</name>
-			</action>
-			<action method="addItem">
-				<type>skin_css</type>
-				<name>css/my_styles.css</name>
-			</action>
-		</reference>
+		<remove name="tags_popular"/>
+		<remove name="product_list_toolbar"/>
+		<remove name="product_list_toolbar_pager"/>
 	</default>
 </layout>

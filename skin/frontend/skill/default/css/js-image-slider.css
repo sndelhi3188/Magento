@@ -11,10 +11,11 @@
 
 #slider {
     float:left;
-    width:680px;height:306px;/* Make it the same size as your images. */
+    width:750px;height:360px;/* Make it the same size as your images. */
 	background:#fff url(loading.gif) no-repeat 50% 50%;
 	position:relative;
 	margin:0 auto;/*make the image slider center-aligned */
+	margin-top:10px;
 }
 #slider img, #slider>b, #slider a>b{
 	position:absolute;
@@ -37,7 +38,7 @@ div.mc-caption-bg, div.mc-caption-bg2 {
 	width:400px;
 	height:auto;
 	padding:10px;
-	left:120px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
+	left:170px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
 	bottom:10px;/*if the caption needs to be aligned from top, specify by top instead of bottom. i.e. top:150px;*/
 	z-index:3;
 	overflow:hidden;
@@ -108,6 +109,11 @@ div.navBulletsWrapper  {
     -ms-transform:translate3d(0,0,0);
     -moz-transform:translate3d(0,0,0);
     -o-transform:translate3d(0,0,0);
+    border-radius: 5px;
+    -moz-box-shadow: 0 10 20px #7F7F7F;
+	-webkit-box-shadow: 0 10px 20px #7F7F7F;
+	box-shadow: 0 10px 20px #7F7F7F;
+    
 }
 
 .loading 

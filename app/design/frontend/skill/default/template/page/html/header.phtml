@@ -27,23 +27,23 @@
  * @var Mage_Page_Block_Html_Header $this
  */
 ?>
-<div class="header-container">
+<div class="header-container container">
     <header class="container main-header">
         <?php if ($this->getIsHomePage()):?>
-			<div class="six columns logo-margin">
+			<div class="col-md-3 logo-margin">
 			<h1 class="logo"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h1>
 			<h5 class="welcome-msg"><?php //echo $this->getWelcome() ?> <?php echo $this->getAdditionalHtml() ?></h5></div>
         <?php else:?>
-			<div class="six columns logo-margin">
+			<div class="col-md-3 logo-margin">
 			<h2 class="logo"><a href="<?php echo $this->getUrl('') ?>" title="<?php echo $this->getLogoAlt() ?>" class="logo"><img src="<?php echo $this->getLogoSrc() ?>" alt="<?php echo $this->getLogoAlt() ?>" /></a></h2>
 			<h5 class="welcome-msg"><?php //echo $this->getWelcome() ?> <?php echo $this->getAdditionalHtml() ?></h5></div>
         <?php endif?>
-        <div class="quick-access six columns">
+        <div class="quick-access col-md-4">
 			<?php echo $this->getChildHtml('topSearch') ?>
         </div>
-        <div class="quick-access six columns">
+        <div class="quick-access col-md-5">
             <?php echo $this->getChildHtml('topLinks') ?>
-            <?php echo $this->getChildHtml('store_language') ?>
+            <?php //echo $this->getChildHtml('store_language') ?>
         </div>
         <?php echo $this->getChildHtml('topContainer'); ?>
     </header>
