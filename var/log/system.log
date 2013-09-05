@@ -111,3 +111,232 @@
 2013-09-03T07:28:03+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
 2013-09-03T07:28:03+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
 2013-09-03T07:28:03+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T04:34:11+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T04:34:11+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T04:34:11+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T05:49:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T05:49:35+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T05:49:35+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T06:48:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T06:48:09+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T06:48:09+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:07:36+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:07:36+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:07:36+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:08:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:08:27+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:08:27+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:19:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:19:21+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:19:21+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:19:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:19:49+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:19:49+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:20:04+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:20:04+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:20:04+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:20:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:20:40+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:20:40+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:21:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:21:15+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:21:15+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:23:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:23:23+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:23:23+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:24:49+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:24:49+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:24:49+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:30:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:30:48+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:30:48+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:34:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:34:48+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:34:48+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:35:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:35:23+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:35:23+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:35:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:35:33+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:35:33+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:42:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:42:13+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:42:13+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:43:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:43:30+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:44:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:44:50+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:44:50+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:46:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:46:21+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:46:21+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:52:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:52:16+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:52:16+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:53:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:53:58+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:53:58+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:54:21+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:54:21+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:54:21+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:55:27+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:55:27+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:55:27+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:55:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:55:47+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:55:47+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:57:06+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:57:06+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T07:57:06+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:06:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:06:08+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:06:08+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:06:09+00:00 ERR (3): Warning: Illegal offset type  in /var/www/magento/app/code/core/Mage/Page/Block/Html/Head.php on line 177
+2013-09-04T09:08:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:08:33+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:08:33+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:08:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:08:51+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:08:51+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:12:25+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:12:25+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:12:25+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:24:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:24:55+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:24:55+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:30:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:30:40+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:30:40+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:35:32+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:35:32+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:35:32+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:36:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:36:16+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:36:16+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:37:45+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:37:45+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:37:45+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:38:43+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:38:43+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:38:43+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:39:50+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:39:50+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:39:50+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:45:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:45:48+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:45:48+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:46:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:46:07+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:46:07+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:47:00+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:47:00+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:47:00+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:47:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:47:22+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:47:22+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:48:48+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:48:48+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:48:48+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:48:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:48:58+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:48:58+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:52:33+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:52:33+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T09:52:33+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:02:42+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:02:42+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:02:42+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:03:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:03:07+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:03:07+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:06:02+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:06:02+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:06:02+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:07:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:07:30+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:07:30+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:10:34+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:10:34+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:10:34+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:15:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:15:07+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:15:07+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:15:58+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:15:58+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:15:58+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:16:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:16:35+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:16:35+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:16:53+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:16:53+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:16:53+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:17:09+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:17:09+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:17:09+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:17:55+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:17:55+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:17:55+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:18:07+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:18:07+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:18:07+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:18:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:18:19+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:18:19+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:23:19+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:23:19+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:23:19+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:26:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:26:13+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:26:13+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:30:56+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:30:56+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:30:56+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:31:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:31:31+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:31:31+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:14+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:14+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:14+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:16+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:16+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:16+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:31+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:31+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:31+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:40+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:40+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T10:39:40+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:32:26+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:32:26+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:32:26+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:33:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:33:30+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:33:30+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:33:47+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:33:47+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:33:47+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:36:39+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:36:39+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:36:39+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:46:41+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:46:41+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:46:41+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:48:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:48:08+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:48:08+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:50:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:50:01+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:50:01+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:52:23+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:52:23+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:52:23+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:55:08+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:55:08+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-04T12:55:08+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-05T04:10:51+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-05T04:10:52+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-05T04:10:52+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-05T04:16:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : Extra content at the end of the document  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-05T04:16:30+00:00 ERR (3): Warning: simplexml_load_string(): 	<default>  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444
+2013-09-05T04:16:30+00:00 ERR (3): Warning: simplexml_load_string(): 	^  in /var/www/magento/app/code/core/Mage/Core/Model/Layout/Update.php on line 444

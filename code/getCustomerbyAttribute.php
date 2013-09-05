@@ -7,10 +7,10 @@ umask(0);
 
 Mage::app('default');
 
-var_dump( 
-	
-	$customers  = Mage::getModel('customer/customer')->getCollection()
+$customers  = Mage::getModel('customer/customer')->getCollection()
         	         ->addAttributeToSelect('email')
-                	 ->addFieldToFilter('is_dealer_agent', '1')->getData()
+                	 ->addFieldToFilter('is_dealer_agent',array('nin'=>array('0')))->getData();
+foreach($customers as $customer){
+	echo $customer["email"]."\n";
+}
 
-	);

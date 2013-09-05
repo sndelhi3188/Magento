@@ -1,5 +1,6 @@
 @import url('bootstrap.css');
 @import url('bootstrap-theme.css');
+@import url('jquery.jscrollpane.css');
 /*@import url('layout.css');
 @import url('skeleton.css');
 @import url('menunav1.css');*/
@@ -92,8 +93,27 @@ text-decoration:none;
 color:#FFFFFF;
 }
 
-footer.footer.container ul li{
+footer.footer.container ul li, .filter-value ol li{
 list-style:none;
+}
+
+.filter-value{
+height:100px;
+width:200px;
+background-color:#1A1A1A;
+}
+.filter-content{
+width:200px;
+margin:5px;
+}
+
+.jspPane{
+height:200px;
+color:#FFFFFF;
+background-color:#1A1A1A;
+}
+.filter-name{
+text-align: center;
 }
 
 nav #nav li:hover{
@@ -138,6 +158,7 @@ font-weight:bold;
 .filter-content{
 float: left;
 border:1px solid #000000;
+list-style:none;
 }
 
 p.block-subtitle{
